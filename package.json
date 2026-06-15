@@ -1,0 +1,25 @@
+{
+  "name": "w1d1-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "live-server ."
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saraicenteno19-lang/w1d1-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saraicenteno19-lang/w1d1-html/issues"
+  },
+  "homepage": "https://github.com/saraicenteno19-lang/w1d1-html#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
